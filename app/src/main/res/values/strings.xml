@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">MeuPrimeiroAppDio</string>
+    <string name="app_name" translatable="false">MeuPrimeiroAppDio</string>
     <string name="app_name_jessica" translatable="false">Jessica</string>
 </resources>
